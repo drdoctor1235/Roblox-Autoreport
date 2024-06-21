@@ -34,6 +34,7 @@ words = {
     ['l ez'] = 'Bullying',
     ['negro'] = 'Bullying',
     ['nivver'] = 'Bullying',
+    ['w⚓'] = 'Bullying',
     ['negar'] = 'Bullying',
     ['bad'] = 'Bullying',
     ['worst'] = 'Bullying',
