@@ -1,2 +1,3 @@
 # Roblox-Autoreport
-If anyone says any of the listed words, they will get reported and most likely banned 
+You will need an executor. for pc i recommend solara. its free and easy to use.
+For mobile i recommend Arceus X, Delta, and Hydrogen.
